@@ -1,0 +1,127 @@
+14.12.2023, 18:30:40 - INFO - Up and running on port 3030
+14.12.2023, 18:33:29 - INFO - Got request : /api/bug/
+14.12.2023, 18:35:26 - INFO - Got request : /api/bug/
+14.12.2023, 18:35:29 - INFO - Got request : /api/bug/
+14.12.2023, 18:35:46 - DEBUG - auth.service - signup with username: new, fullname: new
+14.12.2023, 18:35:46 - DEBUG - auth.route - new account created: {"username":"new","password":"$2b$10$TfXeopF6gE4EAbAL4LpD4OKW83YZLYGSYGDkVXBahVRwmrJ58JvyO","fullname":"new","_id":"75FmR","score":10000,"imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"}
+14.12.2023, 18:35:46 - INFO - User signup: | {"_id":"75FmR","fullname":"new"}
+14.12.2023, 18:35:52 - INFO - Got request : /api/bug/
+14.12.2023, 18:35:54 - INFO - Got request : /api/bug/
+14.12.2023, 18:35:57 - INFO - Got request : /api/bug/
+14.12.2023, 18:36:01 - INFO - Got request : /api/bug/
+14.12.2023, 18:36:04 - INFO - Got request : /api/bug/
+14.12.2023, 18:36:07 - INFO - Got request : /api/bug/
+14.12.2023, 18:36:52 - INFO - Got request : /api/bug/
+14.12.2023, 18:39:27 - INFO - Up and running on port 3030
+14.12.2023, 18:39:44 - INFO - Up and running on port 3030
+14.12.2023, 18:40:11 - INFO - Up and running on port 3030
+14.12.2023, 18:40:25 - INFO - Up and running on port 3030
+14.12.2023, 18:45:02 - INFO - Got request : /api/bug/
+14.12.2023, 19:13:12 - INFO - Got request : /api/bug/
+14.12.2023, 19:13:38 - INFO - Got request : /api/bug/
+14.12.2023, 19:14:09 - INFO - Got request : /api/bug/
+14.12.2023, 19:15:02 - INFO - Up and running on port 3030
+14.12.2023, 19:15:15 - INFO - Up and running on port 3030
+14.12.2023, 19:15:34 - INFO - Got request : /api/bug/1I9JQ
+14.12.2023, 19:19:31 - INFO - Up and running on port 3030
+14.12.2023, 19:20:07 - INFO - Up and running on port 3030
+14.12.2023, 19:20:48 - INFO - Up and running on port 3030
+14.12.2023, 19:21:38 - INFO - Up and running on port 3030
+14.12.2023, 19:22:33 - INFO - Up and running on port 3030
+14.12.2023, 19:23:05 - INFO - Up and running on port 3030
+14.12.2023, 19:23:48 - INFO - Up and running on port 3030
+14.12.2023, 19:24:10 - INFO - Up and running on port 3030
+14.12.2023, 19:24:36 - INFO - Up and running on port 3030
+14.12.2023, 19:24:49 - INFO - Up and running on port 3030
+14.12.2023, 19:25:26 - INFO - Up and running on port 3030
+14.12.2023, 19:26:07 - INFO - Up and running on port 3030
+14.12.2023, 19:27:30 - INFO - Got request : /api/bug/
+14.12.2023, 19:31:47 - INFO - Got request : /api/bug/
+14.12.2023, 19:32:26 - INFO - User login:  | {"_id":"SX8Xt"}
+19.12.2023, 11:20:33 - INFO - Up and running on port 3030
+19.12.2023, 11:21:29 - INFO - Got request : /api/bug/
+19.12.2023, 11:21:33 - INFO - Got request : /api/bug/
+19.12.2023, 11:21:34 - INFO - Got request : /api/bug/
+19.12.2023, 11:21:35 - INFO - Got request : /api/bug/
+19.12.2023, 11:21:35 - INFO - Got request : /api/bug/
+19.12.2023, 11:21:56 - INFO - User login:  | {"_id":"SX8Xt"}
+19.12.2023, 11:22:01 - INFO - Got request : /api/bug/SfMLV
+19.12.2023, 11:22:06 - INFO - Got request : /api/bug/
+28.10.2024, 18:09:08 - INFO - Up and running on port 3030
+28.10.2024, 18:11:05 - INFO - Up and running on port 3030
+28.10.2024, 18:11:16 - INFO - Up and running on port 3030
+28.10.2024, 18:12:29 - INFO - Up and running on port 3030
+28.10.2024, 18:13:00 - INFO - Up and running on port 3030
+28.10.2024, 18:13:40 - INFO - Up and running on port 3030
+28.10.2024, 18:14:44 - INFO - Up and running on port 3030
+28.10.2024, 18:21:26 - INFO - Got request : /api/bug/
+28.10.2024, 18:27:47 - INFO - Up and running on port 3030
+28.10.2024, 18:29:29 - INFO - Got request : /api/bug/
+28.10.2024, 18:29:55 - INFO - Got request : /api/bug/
+28.10.2024, 18:30:36 - INFO - Got request : /api/bug/
+28.10.2024, 18:30:40 - INFO - Got request : /api/bug/
+28.10.2024, 18:31:10 - INFO - Got request : /api/bug/
+28.10.2024, 18:31:17 - INFO - Up and running on port 3030
+28.10.2024, 18:31:18 - INFO - Got request : /api/bug/
+28.10.2024, 18:32:44 - INFO - Up and running on port 3030
+28.10.2024, 18:32:51 - INFO - Got request : /api/bug/
+28.10.2024, 18:32:54 - INFO - Got request : /api/bug/
+28.10.2024, 18:32:56 - INFO - Up and running on port 3030
+28.10.2024, 18:32:57 - INFO - Got request : /api/bug/
+28.10.2024, 18:33:16 - INFO - Up and running on port 3030
+28.10.2024, 18:33:17 - INFO - Got request : /api/bug/
+28.10.2024, 18:33:35 - INFO - Got request : /api/bug/
+28.10.2024, 18:33:36 - INFO - Got request : /api/bug/
+28.10.2024, 18:33:36 - INFO - Got request : /api/bug/
+28.10.2024, 18:33:37 - INFO - Got request : /api/bug/
+28.10.2024, 18:34:35 - INFO - Up and running on port 3030
+28.10.2024, 18:35:01 - INFO - Up and running on port 3030
+28.10.2024, 18:35:40 - INFO - Up and running on port 3030
+28.10.2024, 18:35:41 - INFO - Got request : /api/bug/
+28.10.2024, 18:35:43 - INFO - Got request : /api/bug/
+28.10.2024, 18:35:46 - INFO - Got request : /api/bug/
+28.10.2024, 18:35:48 - INFO - Got request : /api/bug/
+28.10.2024, 18:35:59 - INFO - Got request : /api/bug/
+28.10.2024, 18:36:01 - INFO - Got request : /api/bug/
+28.10.2024, 18:36:45 - INFO - Got request : /api/bug/
+28.10.2024, 18:37:00 - INFO - Up and running on port 3030
+28.10.2024, 18:37:01 - INFO - Got request : /api/bug/
+28.10.2024, 18:39:03 - INFO - Up and running on port 3030
+28.10.2024, 18:54:10 - INFO - Got request : /api/bug/
+28.10.2024, 18:54:37 - INFO - Up and running on port 3030
+28.10.2024, 18:54:39 - INFO - Got request : /api/bug/
+28.10.2024, 18:59:06 - INFO - Got request : /api/bug/
+28.10.2024, 18:59:14 - INFO - Got request : /api/bug/
+28.10.2024, 19:02:52 - ERROR - Failed to Login NaN
+28.10.2024, 19:03:28 - INFO - Got request : /api/bug/
+28.10.2024, 19:04:20 - INFO - Up and running on port 3030
+28.10.2024, 19:04:54 - INFO - Got request : /api/bug/
+28.10.2024, 19:05:12 - INFO - Up and running on port 3030
+28.10.2024, 19:05:13 - INFO - Got request : /api/bug/
+28.10.2024, 19:05:20 - INFO - Got request : /api/bug/
+28.10.2024, 19:05:34 - INFO - Got request : /api/bug/
+28.10.2024, 19:09:38 - INFO - Got request : /api/bug/
+28.10.2024, 19:12:22 - INFO - Got request : /api/bug/
+28.10.2024, 19:17:12 - INFO - Got request : /api/bug/
+28.10.2024, 19:39:04 - INFO - Got request : /api/bug/
+28.10.2024, 19:40:47 - INFO - Got request : /api/bug/
+28.10.2024, 19:41:08 - INFO - Got request : /api/bug/
+28.10.2024, 19:45:13 - INFO - Got request : /api/bug/
+28.10.2024, 19:53:34 - INFO - Got request : /api/bug/
+28.10.2024, 19:55:32 - INFO - Got request : /api/bug/
+28.10.2024, 19:55:33 - INFO - Got request : /api/bug/
+28.10.2024, 19:56:03 - INFO - Got request : /api/bug/
+28.10.2024, 19:56:49 - INFO - Got request : /api/bug/
+28.10.2024, 19:57:00 - INFO - Got request : /api/bug/
+28.10.2024, 19:57:26 - INFO - Got request : /api/bug/
+28.10.2024, 19:58:10 - INFO - Got request : /api/bug/
+28.10.2024, 19:58:33 - INFO - Got request : /api/bug/
+28.10.2024, 20:02:54 - INFO - Got request : /api/bug/
+28.10.2024, 20:03:07 - INFO - Got request : /api/bug/
+28.10.2024, 20:03:09 - INFO - Got request : /api/bug/
+28.10.2024, 20:03:11 - INFO - Got request : /api/bug/
+29.10.2024, 9:18:12 - INFO - Got request : /api/bug/
+29.10.2024, 9:18:14 - INFO - Got request : /api/bug/
+29.10.2024, 9:18:22 - INFO - Got request : /api/bug/
+29.10.2024, 9:19:59 - INFO - Got request : /api/bug/
+29.10.2024, 9:20:01 - INFO - Got request : /api/bug/

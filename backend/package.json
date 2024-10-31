@@ -1,0 +1,19 @@
+{
+  "name": "proj-node-server",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "lala": "echo Lala!",
+    "show-files": "dir",
+    "start": "nodemon --ignore \"./data\" server.js"
+  },
+  "author": "Me",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "cryptr": "^6.0.3",
+    "express": "^4.18.1",
+    "run": "^1.4.0"
+  }
+}
